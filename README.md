@@ -2,7 +2,6 @@
 
 https://github.com/martin-lueders/ML_Pro_Series/wiki
 
-![Quantum Multiverse](https://github.com/martin-lueders/ML_Pro_Series/blob/master/Screenshots/Sequencer_Pack.png)
+![Image](https://github.com/martin-lueders/ML_Pro_Series/blob/master/Screenshots/ML_modules_Pro.png)
 
-![Quantum Multiverse](https://github.com/martin-lueders/ML_Pro_Series/blob/master/Screenshots/Quantum_Multiverse.png)
 
